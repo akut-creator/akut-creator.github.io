@@ -255,14 +255,14 @@ body.page-template-page-fullsingle-me h1 {
 }
 
 h1{
-  color:rgb(87, 66, 250);
-  background-color: rgb(161, 216, 246);
+  color:rgb(255, 235, 17);
+  background-color: rgb(219, 0, 0);
   padding: 20px;
 }
 
 p {
   color:rgb(219, 0, 0);
-  background-color: rgb(31, 155, 31);
+  background-color: rgb(255, 235, 17);
   padding: 20px;
   margin-top: 10px;
   font-size: 200%;
